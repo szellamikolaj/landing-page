@@ -5,6 +5,11 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: white;
 }
+
+.site {
+    background-color: rgb(61, 4, 126);
+}
+
 .header {
     margin: 0;
     padding: 16px 32px;
@@ -67,5 +72,5 @@ p {
 }
 
 .container1 {
-    background-color: rgb(61, 4, 126);
+margin: 0 15%;
 }
