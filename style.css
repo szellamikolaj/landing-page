@@ -71,7 +71,7 @@ body {
     cursor: pointer;
 }
 
-p {
+.background1 p {
     font-size: 18px;
     max-width: 600px;
     word-wrap: break-word;
