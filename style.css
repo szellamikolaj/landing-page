@@ -6,13 +6,17 @@ body {
     color: white;
 }
 
+.container {
+    margin: 0 15%;
+}
+
 .background1 {
     background-color: rgb(61, 4, 126);
 }
 
 .header {
     margin: 0;
-    padding: 16px 32px;
+    padding: 16px 40px;
     display: flex;
     justify-content: space-between;
 }
@@ -39,8 +43,8 @@ body {
 
 .info-container1 {
     display: flex;
-    padding: 40px;
     justify-content: space-between;
+    padding: 40px;
 }
 
 .info-container1 h1 {
@@ -71,6 +75,10 @@ p {
     font-size: 18px;
 }
 
-.container {
-    margin: 0 15%;
+.background2 p {
+    font-size: 36px;
+    color: black;
+    margin: 0;
+    padding: 40px;
+    text-align: center;
 }
