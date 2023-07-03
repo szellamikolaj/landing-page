@@ -6,7 +6,6 @@ body {
 }
 
 .header {
-    background-color: orange;
     margin: 0;
     padding: 16px 32px;
     display: flex;
@@ -65,3 +64,6 @@ p {
     font-size: 18px;
 }
 
+.container1 {
+    background-color: rgb(61, 4, 126);
+}
