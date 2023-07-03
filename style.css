@@ -1,10 +1,25 @@
 body {
     display: flex;
     flex-direction: column;
+    margin: 0;
 }
 
 .header {
     background-color: orange;
     margin: 0;
-    padding: 0;
+    padding: 16px 32px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header img {
+    width: 128px;
+    height: 32px;
+    align-self: center;
+}
+
+.header ul {
+    display: flex;
+    margin: 0;
+    align-items: center;
 }
