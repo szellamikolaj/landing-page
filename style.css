@@ -3,6 +3,7 @@ body {
     flex-direction: column;
     margin: 0;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
 }
 
 .header {
@@ -28,8 +29,8 @@ body {
 
 .header a {
     text-decoration: none;
-    color: white;
     font-weight: bold;
+    color: white;
 }
 
 .info-container1 {
@@ -51,13 +52,13 @@ body {
 
 .info-container1 button {
     background-color: #962cff;
-    color: white;
     border: none;
     border-radius: 8px;
     text-decoration: none;
     padding: 10px 32px;
     font-weight: 500;
     font-size: 14px;
+    color: white;
 }
 
 p {
