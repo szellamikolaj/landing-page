@@ -54,8 +54,8 @@ body {
 }
 
 .info-container1 img {
-    height: 230px;
-    width: 450px;
+    height: auto;
+    max-width: 300px;
 }
 
 .info-container1 button {
@@ -73,6 +73,8 @@ body {
 
 p {
     font-size: 18px;
+    max-width: 600px;
+    word-wrap: break-word;
 }
 
 .background2 p {
