@@ -84,3 +84,15 @@ body {
     padding: 40px;
     text-align: center;
 }
+
+.images {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.images img {
+    width: 200px;
+    height: 200px;
+}
