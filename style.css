@@ -50,6 +50,18 @@ body {
     width: 350px;
 }
 
+.info-container1 button {
+    background-color: #962cff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    text-decoration: none;
+    padding: 10px 32px;
+    font-weight: 500;
+    font-size: 14px;
+}
+
 p {
     font-size: 18px;
 }
+
