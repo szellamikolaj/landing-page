@@ -6,7 +6,7 @@ body {
     color: white;
 }
 
-.site {
+.background1 {
     background-color: rgb(61, 4, 126);
 }
 
@@ -72,5 +72,5 @@ p {
 }
 
 .container1 {
-margin: 0 15%;
+    margin: 0 15%;
 }
