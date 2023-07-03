@@ -22,4 +22,11 @@ body {
     display: flex;
     margin: 0;
     align-items: center;
+    list-style: none;
+    gap: 32px;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
 }
