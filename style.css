@@ -144,4 +144,18 @@ body {
     border-radius: 8px;
     height: 160px;
     margin: 80px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 100px;
+}
+
+.block p {
+    margin: 5px 0;
+    max-width: 300px;
+    word-wrap: break-word;
+}
+
+.block button {
+    margin-right: 40px;
 }
