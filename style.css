@@ -18,6 +18,38 @@ body {
     color: black;
 }
 
+.background2 {
+    margin-bottom: 60px;
+}
+
+.background3 {
+    background-color:rgb(238, 233, 243);
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.quote-block p {
+    align-self: flex-end;
+    font-weight: 700;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    max-width: 1000px;
+    word-wrap: break-word;
+
+}
+
 .header {
     margin: 0;
     padding: 16px 40px;
