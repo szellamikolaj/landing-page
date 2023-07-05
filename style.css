@@ -152,8 +152,13 @@ body {
 
 .block p {
     margin: 5px 0;
-    max-width: 300px;
     word-wrap: break-word;
+    font-size: 16px;
+}
+
+#thick {
+    font-weight: 900;
+    font-size: 20px;
 }
 
 .block button {
