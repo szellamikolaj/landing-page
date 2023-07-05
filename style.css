@@ -158,4 +158,10 @@ body {
 
 .block button {
     margin-right: 40px;
+    padding: 5px 20px;
+    background-color: #962cff;
+    border: 2px solid white;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
 }
